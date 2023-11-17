@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="left"># Jordan Ferdinando: Software Engineer 👨‍💻/h2>
+<h2 align="left"># Jordan Ferdinando: Software Engineer 👨‍💻</h2>
 
 ###
 
