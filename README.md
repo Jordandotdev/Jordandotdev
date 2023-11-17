@@ -65,7 +65,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Jordandotdev/Jordandotdev/output/snake.svg" alt="Snake animation" />
 
-###
 
