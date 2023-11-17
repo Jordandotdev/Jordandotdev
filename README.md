@@ -65,10 +65,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Jordandotdev/Jordandotdev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://open.spotify.com/user/t3pquvgnxukfypwen5e4jkhpy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=t3pquvgnxukfypwen5e4jkhpy&count=5&unique=true" alt="Spotify recently played"  />
