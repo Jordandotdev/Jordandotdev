@@ -9,15 +9,9 @@
 
 ###
 
-<h3 align="left">Hi there! 👋 I'm Jordan Ferdinando, a software engineer from Sri Lanka with a passion for design, problem-solving, and creating new products ✨. I love using my skills to bring ideas to life and build things that make people's lives easier and more enjoyable 🛠️. I'm always up for a challenge and I'm constantly learning and growing 🚀.<br><br>In my free time, I enjoy working on<a href="https://www.instagram.com/skyethecorona/" style="transition: font-size 0.3s; font-size: 16px;">cars 🚘</a>
+<h3 align="left">Hi there! 👋 I'm Jordan Ferdinando, a software engineer from Sri Lanka with a passion for design, problem-solving, and creating new products ✨. I love using my skills to bring ideas to life and build things that make people's lives easier and more enjoyable 🛠️. I'm always up for a challenge and I'm constantly learning and growing 🚀.<br><br>In my free time, I enjoy working on <a href="https://www.instagram.com/skyethecorona/" style="transition: font-size 0.3s; font-size: 16px;">cars 🚘</a>
  and producing music 🎶.<br><br>If you're looking for a creative and passionate software engineer, I'm your person! 🚀<br><br># Let's Connect!</h3>
 
- 
-<style>
-    a:hover {
-        font-size: 20px;
-    }
-</style>
 
 ###
 
